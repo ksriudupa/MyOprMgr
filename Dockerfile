@@ -1,2 +1,2 @@
 FROM ubuntu
-echo "hello" >/hp
+RUN echo "hello" >/hp
